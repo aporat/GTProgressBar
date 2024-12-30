@@ -28,6 +28,7 @@
 		632783701F39EA07000E9F75 /* VerticalLabelPositionFrameCalculator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VerticalLabelPositionFrameCalculator.swift; sourceTree = "<group>"; };
 		63811CAE1FBEE29500B5CF1D /* GTProgressBarDirection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GTProgressBarDirection.swift; sourceTree = "<group>"; };
 		63825C14208685480072D52B /* GTProgressBarCornerType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GTProgressBarCornerType.swift; sourceTree = "<group>"; };
+		7747C8242D2216FE00803000 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		BC8B28211EBA3CC900BF1A1C /* GTProgressBar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GTProgressBar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC8B28241EBA3CC900BF1A1C /* GTProgressBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GTProgressBar.h; sourceTree = "<group>"; };
 		BC8B28251EBA3CC900BF1A1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -50,6 +51,7 @@
 		BC8B28171EBA3CC900BF1A1C = {
 			isa = PBXGroup;
 			children = (
+				7747C8242D2216FE00803000 /* Package.swift */,
 				BC8B28231EBA3CC900BF1A1C /* GTProgressBar */,
 				BC8B28221EBA3CC900BF1A1C /* Products */,
 			);
@@ -143,6 +145,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = BC8B28171EBA3CC900BF1A1C;
